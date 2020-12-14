@@ -5,7 +5,7 @@ import { BrowserRouter, Link, Redirect, Route, Switch } from 'react-router-dom';
 import { Page1, Page2 } from '../pages';
 import { configureStore } from '../../redux';
 
-import './app.css';
+import './app.scss';
 
 const store = configureStore();
 

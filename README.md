@@ -1,4 +1,4 @@
 # React TypeScript Template
 
-Includes: React Router, TypeScript, Redux
+Includes: React Router, TypeScript, Redux, Sass
 
